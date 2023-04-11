@@ -12,6 +12,6 @@ public class App {
         ix35.acelerar(50);
         ix35.trocarmarcha();
         ix35.acelerar(110);
-        ix35.desligar();
+
     }
 }
